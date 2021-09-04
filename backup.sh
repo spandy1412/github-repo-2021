@@ -1,1 +1,2 @@
-This is the first modification
+#!/bin/bash
+cp /var/log /backup

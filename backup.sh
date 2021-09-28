@@ -6,3 +6,5 @@ Final changes are made
 rm -rf /backup
 cp /backup+date to bakupserver
 This sesion has ended
+made a new change
+
